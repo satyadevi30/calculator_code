@@ -1,8 +1,8 @@
 # calculator_code
 A simple calculator with basic arithmetic operations.
--->Problem Statement:
+#-->Problem Statement:
 To create a simple calculator with basic arithmetic operations and to Prompt the user to input two numbers and an operation choice.
--->Code Explanation:
+#-->Code Explanation:
 The script defines four functions:- add, subtract, multiply, and divide, each taking two parameters (a and b) and performing the corresponding mathematical operation.
 ->User Input:
 Inside the loop, the user is prompted to select a mathematical operation (+, -, *, /).The user is then asked to enter two numbers (a and b) for the selected operation.
